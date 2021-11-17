@@ -1,0 +1,1092 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BlockDemo",
+            "request": "launch",
+            "mainClass": "Chapter01.BlockDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "Chapter01.Example",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example2",
+            "request": "launch",
+            "mainClass": "Chapter01.Example2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example3",
+            "request": "launch",
+            "mainClass": "Chapter01.Example3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForDemo",
+            "request": "launch",
+            "mainClass": "Chapter01.ForDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch GalToLit",
+            "request": "launch",
+            "mainClass": "Chapter01.GalToLit",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch GalToLitTable",
+            "request": "launch",
+            "mainClass": "Chapter01.GalToLitTable",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ifDemo",
+            "request": "launch",
+            "mainClass": "Chapter01.ifDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoolDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.BoolDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.CastDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharArithDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.CharArithDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynInit",
+            "request": "launch",
+            "mainClass": "Chapter02.DynInit",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hypot",
+            "request": "launch",
+            "mainClass": "Chapter02.Hypot",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inches",
+            "request": "launch",
+            "mainClass": "Chapter02.Inches",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOpTable",
+            "request": "launch",
+            "mainClass": "Chapter02.LogicalOpTable",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch LtoD",
+            "request": "launch",
+            "mainClass": "Chapter02.LtoD",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ModDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.ModDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestVar",
+            "request": "launch",
+            "mainClass": "Chapter02.NestVar",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Chapter02.Prime",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch PromoDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.PromoDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch RellogOps",
+            "request": "launch",
+            "mainClass": "Chapter02.RellogOps",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SCops",
+            "request": "launch",
+            "mainClass": "Chapter02.SCops",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScopeDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.ScopeDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SideEffects",
+            "request": "launch",
+            "mainClass": "Chapter02.SideEffects",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.StrDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch UseCast",
+            "request": "launch",
+            "mainClass": "Chapter02.UseCast",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarInitDemo",
+            "request": "launch",
+            "mainClass": "Chapter02.VarInitDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break2",
+            "request": "launch",
+            "mainClass": "Chapter03.Break2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break3",
+            "request": "launch",
+            "mainClass": "Chapter03.Break3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break4",
+            "request": "launch",
+            "mainClass": "Chapter03.Break4",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break5",
+            "request": "launch",
+            "mainClass": "Chapter03.Break5",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Break6",
+            "request": "launch",
+            "mainClass": "Chapter03.Break6",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakDemo",
+            "request": "launch",
+            "mainClass": "Chapter03.BreakDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakErr",
+            "request": "launch",
+            "mainClass": "Chapter03.BreakErr",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comma",
+            "request": "launch",
+            "mainClass": "Chapter03.Comma",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContDemo",
+            "request": "launch",
+            "mainClass": "Chapter03.ContDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContToLabel",
+            "request": "launch",
+            "mainClass": "Chapter03.ContToLabel",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch DWDemo",
+            "request": "launch",
+            "mainClass": "Chapter03.DWDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecrFor",
+            "request": "launch",
+            "mainClass": "Chapter03.DecrFor",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Empty",
+            "request": "launch",
+            "mainClass": "Chapter03.Empty",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Empty2",
+            "request": "launch",
+            "mainClass": "Chapter03.Empty2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Empty3",
+            "request": "launch",
+            "mainClass": "Chapter03.Empty3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindFac",
+            "request": "launch",
+            "mainClass": "Chapter03.FindFac",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForTest",
+            "request": "launch",
+            "mainClass": "Chapter03.ForTest",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForVar",
+            "request": "launch",
+            "mainClass": "Chapter03.ForVar",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Guess",
+            "request": "launch",
+            "mainClass": "Chapter03.Guess",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Guess2",
+            "request": "launch",
+            "mainClass": "Chapter03.Guess2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Guess4",
+            "request": "launch",
+            "mainClass": "Chapter03.Guess4",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Help",
+            "request": "launch",
+            "mainClass": "Chapter03.Help",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Help2",
+            "request": "launch",
+            "mainClass": "Chapter03.Help2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Help3",
+            "request": "launch",
+            "mainClass": "Chapter03.Help3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch KbIn",
+            "request": "launch",
+            "mainClass": "Chapter03.KbIn",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ladder",
+            "request": "launch",
+            "mainClass": "Chapter03.Ladder",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoBreak",
+            "request": "launch",
+            "mainClass": "Chapter03.NoBreak",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Power",
+            "request": "launch",
+            "mainClass": "Chapter03.Power",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SqrRoot",
+            "request": "launch",
+            "mainClass": "Chapter03.SqrRoot",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchDemo",
+            "request": "launch",
+            "mainClass": "Chapter03.SwitchDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileDemo",
+            "request": "launch",
+            "mainClass": "Chapter03.WhileDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddMeth",
+            "request": "launch",
+            "mainClass": "Chapter04.AddMeth",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompFuel",
+            "request": "launch",
+            "mainClass": "Chapter04.CompFuel",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsDemo",
+            "request": "launch",
+            "mainClass": "Chapter04.ConsDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoPwr",
+            "request": "launch",
+            "mainClass": "Chapter04.DemoPwr",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelpClassDemo",
+            "request": "launch",
+            "mainClass": "Chapter04.HelpClassDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsFact",
+            "request": "launch",
+            "mainClass": "Chapter04.IsFact",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParaConsDemo",
+            "request": "launch",
+            "mainClass": "Chapter04.ParaConsDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParmDemo",
+            "request": "launch",
+            "mainClass": "Chapter04.ParmDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch RetMeth",
+            "request": "launch",
+            "mainClass": "Chapter04.RetMeth",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoVehicles",
+            "request": "launch",
+            "mainClass": "Chapter04.TwoVehicles",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VehConsDemo",
+            "request": "launch",
+            "mainClass": "Chapter04.VehConsDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VehicleDemo",
+            "request": "launch",
+            "mainClass": "Chapter04.VehicleDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ACopy",
+            "request": "launch",
+            "mainClass": "Chapter05.ACopy",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.ArrayDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayErr",
+            "request": "launch",
+            "mainClass": "Chapter05.ArrayErr",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch AssignARef",
+            "request": "launch",
+            "mainClass": "Chapter05.AssignARef",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Avg",
+            "request": "launch",
+            "mainClass": "Chapter05.Avg",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble",
+            "request": "launch",
+            "mainClass": "Chapter05.Bubble",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CLDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.CLDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encode",
+            "request": "launch",
+            "mainClass": "Chapter05.Encode",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForEach",
+            "request": "launch",
+            "mainClass": "Chapter05.ForEach",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForEach2",
+            "request": "launch",
+            "mainClass": "Chapter05.ForEach2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch LengthDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.LengthDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch LowCase",
+            "request": "launch",
+            "mainClass": "Chapter05.LowCase",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinMax",
+            "request": "launch",
+            "mainClass": "Chapter05.MinMax",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinMax2",
+            "request": "launch",
+            "mainClass": "Chapter05.MinMax2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoChange",
+            "request": "launch",
+            "mainClass": "Chapter05.NoChange",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoZeroDiv",
+            "request": "launch",
+            "mainClass": "Chapter05.NoZeroDiv",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoZeroDiv2",
+            "request": "launch",
+            "mainClass": "Chapter05.NoZeroDiv2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NotDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.NotDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Phone",
+            "request": "launch",
+            "mainClass": "Chapter05.Phone",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch QDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.QDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ragged",
+            "request": "launch",
+            "mainClass": "Chapter05.Ragged",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "Chapter05.Search",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShiftDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.ShiftDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowBits",
+            "request": "launch",
+            "mainClass": "Chapter05.ShowBits",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Squares",
+            "request": "launch",
+            "mainClass": "Chapter05.Squares",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrBubble",
+            "request": "launch",
+            "mainClass": "Chapter05.StrBubble",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrOps",
+            "request": "launch",
+            "mainClass": "Chapter05.StrOps",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringArrays",
+            "request": "launch",
+            "mainClass": "Chapter05.StringArrays",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.StringDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringSwitch",
+            "request": "launch",
+            "mainClass": "Chapter05.StringSwitch",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubStr",
+            "request": "launch",
+            "mainClass": "Chapter05.SubStr",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoD",
+            "request": "launch",
+            "mainClass": "Chapter05.TwoD",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch UpCase",
+            "request": "launch",
+            "mainClass": "Chapter05.UpCase",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarDemo",
+            "request": "launch",
+            "mainClass": "Chapter05.VarDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarDemo2",
+            "request": "launch",
+            "mainClass": "Chapter05.VarDemo2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarDemo3",
+            "request": "launch",
+            "mainClass": "Chapter05.VarDemo3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch BWDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.BWDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallByValue",
+            "request": "launch",
+            "mainClass": "Chapter06.CallByValue",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ErrInfo",
+            "request": "launch",
+            "mainClass": "Chapter06.ErrInfo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ErrMsg",
+            "request": "launch",
+            "mainClass": "Chapter06.ErrMsg",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch FSDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.FSDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch LocalClassDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.LocalClassDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestedClassDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.NestedClassDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadConsDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.OverloadConsDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.OverloadDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch PassOb",
+            "request": "launch",
+            "mainClass": "Chapter06.PassOb",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch QSDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.QSDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "Chapter06.Recursion",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.SDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDemo2",
+            "request": "launch",
+            "mainClass": "Chapter06.SDemo2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SDemo3",
+            "request": "launch",
+            "mainClass": "Chapter06.SDemo3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumDemo",
+            "request": "launch",
+            "mainClass": "Chapter06.SumDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch TypeConv",
+            "request": "launch",
+            "mainClass": "Chapter06.TypeConv",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarArgs",
+            "request": "launch",
+            "mainClass": "Chapter06.VarArgs",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarArgs2",
+            "request": "launch",
+            "mainClass": "Chapter06.VarArgs2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarArgs3",
+            "request": "launch",
+            "mainClass": "Chapter06.VarArgs3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarArgs4",
+            "request": "launch",
+            "mainClass": "Chapter06.VarArgs4",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynDispDemo",
+            "request": "launch",
+            "mainClass": "Chapter07.DynDispDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynShapes",
+            "request": "launch",
+            "mainClass": "Chapter07.DynShapes",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinalD",
+            "request": "launch",
+            "mainClass": "Chapter07.FinalD",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncompatibleRef",
+            "request": "launch",
+            "mainClass": "Chapter07.IncompatibleRef",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch Overload",
+            "request": "launch",
+            "mainClass": "Chapter07.Overload",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch TruckDemo",
+            "request": "launch",
+            "mainClass": "Chapter07.TruckDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookDemo",
+            "request": "launch",
+            "mainClass": "Chapter08.BookDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomExceptDemo",
+            "request": "launch",
+            "mainClass": "Chapter09.CustomExceptDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo1",
+            "request": "launch",
+            "mainClass": "Chapter09.ExcDemo1",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo2",
+            "request": "launch",
+            "mainClass": "Chapter09.ExcDemo2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo3",
+            "request": "launch",
+            "mainClass": "Chapter09.ExcDemo3",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo4",
+            "request": "launch",
+            "mainClass": "Chapter09.ExcDemo4",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo5",
+            "request": "launch",
+            "mainClass": "Chapter09.ExcDemo5",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinallyDemo",
+            "request": "launch",
+            "mainClass": "Chapter09.FinallyDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiCatch",
+            "request": "launch",
+            "mainClass": "Chapter09.MultiCatch",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestTrys",
+            "request": "launch",
+            "mainClass": "Chapter09.NestTrys",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch RethrowDemo",
+            "request": "launch",
+            "mainClass": "Chapter09.RethrowDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowDemo",
+            "request": "launch",
+            "mainClass": "Chapter09.ThrowDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowsDemo",
+            "request": "launch",
+            "mainClass": "Chapter09.ThrowsDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyFile",
+            "request": "launch",
+            "mainClass": "Chapter10.CopyFile",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyFile2",
+            "request": "launch",
+            "mainClass": "Chapter10.CopyFile2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch RWData",
+            "request": "launch",
+            "mainClass": "Chapter10.RWData",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadBytes",
+            "request": "launch",
+            "mainClass": "Chapter10.ReadBytes",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowFile",
+            "request": "launch",
+            "mainClass": "Chapter10.ShowFile",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowFile1",
+            "request": "launch",
+            "mainClass": "Chapter10.ShowFile1",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowFile2",
+            "request": "launch",
+            "mainClass": "Chapter10.ShowFile2",
+            "projectName": "BeginnerHerbSchildtOracle"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteDemo",
+            "request": "launch",
+            "mainClass": "Chapter10.WriteDemo",
+            "projectName": "BeginnerHerbSchildtOracle"
+        }
+    ]
+}
