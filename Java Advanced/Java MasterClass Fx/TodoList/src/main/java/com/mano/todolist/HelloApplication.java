@@ -35,7 +35,7 @@ public class HelloApplication extends Application {
     @Override
     public void init() throws Exception {
         try{
-            TodoData.getInstance().loadTodoitems();
+            TodoData.getInstance().loadTodoItems();
 
         }catch (IOException e){
             System.out.println(e.getMessage());
