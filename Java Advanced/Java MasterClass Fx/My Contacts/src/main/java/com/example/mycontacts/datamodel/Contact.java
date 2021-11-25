@@ -1,23 +1,21 @@
 package com.example.mycontacts.datamodel;
 
-import javafx.beans.property.Property;
 import javafx.beans.property.SimpleStringProperty;
 
 public class Contact {
-
-    private SimpleStringProperty firstName = new javafx.beans.property.SimpleStringProperty("");
-    private SimpleStringProperty lastName = new javafx.beans.property.SimpleStringProperty("");
-    private SimpleStringProperty phoneNumber = new javafx.beans.property.SimpleStringProperty("");
-    private SimpleStringProperty notes = new javafx.beans.property.SimpleStringProperty("");
+    private SimpleStringProperty firstName = new SimpleStringProperty("");
+    private SimpleStringProperty lastName = new SimpleStringProperty("");
+    private SimpleStringProperty phoneNumber = new SimpleStringProperty("");
+    private SimpleStringProperty notes = new SimpleStringProperty("");
 
     public Contact() {
     }
 
-    public Contact(SimpleStringProperty firstName, SimpleStringProperty lastName, SimpleStringProperty phoneNumber, SimpleStringProperty notes) {
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.phoneNumber = phoneNumber;
-        this.notes = notes;
+    public Contact(String firstName, String lastName, String phoneNumber, String notes) {
+        this.firstName.set(firstName);
+        this.lastName.set(lastName);
+        this.phoneNumber.set(phoneNumber);
+        this.notes.set(notes);
     }
 
     public String getFirstName() {

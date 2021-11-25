@@ -36,15 +36,15 @@ public class ContactData {
         contacts = FXCollections.observableArrayList();
     }
 
-    public ObservableList<Contact> getContacts(){
+    public ObservableList<Contact> getContacts() {
         return contacts;
     }
 
-    public void addContact(Contact item){
+    public void addContact(Contact item) {
         contacts.add(item);
     }
 
-    public void deleteContact(Contact item){
+    public void deleteContact(Contact item) {
         contacts.remove(item);
     }
 

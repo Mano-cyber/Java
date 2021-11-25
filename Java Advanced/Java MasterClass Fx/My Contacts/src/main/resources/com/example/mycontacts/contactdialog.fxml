@@ -2,10 +2,9 @@
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.TextField?>
-<DialogPane fx:controller="com.example.mycontacts.ContactController"
-            xmlns:fx="http://javafx.com/fxml">
+<DialogPane fx:controller="com.example.mycontacts.ContactController" xmlns:fx="http://javafx.com/fxml">
     <headerText>
-        Fill in the info for the new Contact
+        Fill in the information for the new Contact
     </headerText>
     <content>
         <GridPane vgap="10" hgap="10">
