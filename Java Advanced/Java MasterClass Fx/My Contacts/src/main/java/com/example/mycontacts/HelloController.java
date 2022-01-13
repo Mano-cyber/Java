@@ -32,7 +32,7 @@ public class HelloController {
         dialog.initOwner(mainPanel.getScene().getWindow());
         dialog.setTitle("Add New Contact");
         FXMLLoader fxmlLoader = new FXMLLoader();
-        fxmlLoader.setLocation(getClass().getResource("contactdialog.fxml"));
+        fxmlLoader.setLocation(getClass().getResource("src/resources/contactdialog.fxml"));
         try {
             dialog.getDialogPane().setContent(fxmlLoader.load());
 
@@ -70,7 +70,7 @@ public class HelloController {
         dialog.initOwner(mainPanel.getScene().getWindow());
         dialog.setTitle("Edit Contact");
         FXMLLoader fxmlLoader = new FXMLLoader();
-        fxmlLoader.setLocation(getClass().getResource("contactdialog.fxml"));
+        fxmlLoader.setLocation(getClass().getResource("src/resources/contactdialog.fxml"));
         try {
             dialog.getDialogPane().setContent(fxmlLoader.load());
         } catch (IOException e) {
